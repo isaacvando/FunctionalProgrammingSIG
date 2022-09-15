@@ -6,3 +6,4 @@ This repository contains all relevant info for the Mizzou Computing Association 
 - [Exercism Haskell Track](https://exercism.org/tracks/haskell)
 - [Real World Haskell](http://book.realworldhaskell.org/read/)
 - [Haskell Download Instructions](https://www.haskell.org/downloads/)
+- [Category Theory For Programmers](https://youtube.com/playlist?list=PLbgaMIhjbmEnaH_LTkxLI7FMa2HsnawM_)
