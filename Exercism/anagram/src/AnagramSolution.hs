@@ -1,4 +1,4 @@
-module Anagram (anagramsFor) where
+module AnagramSolution (anagramsFor) where
 import Data.List
 import Data.Char
 

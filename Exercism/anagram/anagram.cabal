@@ -12,6 +12,7 @@ library
   exposed-modules:
       Anagram
   other-modules:
+      AnagramSolution
       Paths_anagram
   hs-source-dirs:
       src

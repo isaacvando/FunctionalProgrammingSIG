@@ -1,6 +1,9 @@
 # Functional Programming SIG
 This repository contains all relevant info for the Mizzou Computing Association Functional Programming Special Interest Group led by Isaac Van Doren.
 
+## Jupyter Notebooks
+(Coming soon hopefully) [mybinder.org](https://mybinder.org/v2/gh/isaacvando/FunctionalProgrammingSIG/HEAD)
+
 ## Resources
 - [Learn You a Haskell](http://learnyouahaskell.com/chapters)
 - [Exercism Haskell Track](https://exercism.org/tracks/haskell)
