@@ -2,3 +2,9 @@
 .ipynb_checkpoints/
 .DS_Store
 .stack-work/
+*.log
+*.fls
+*.aux
+*.aux.fdb_latexmk
+*.fdb_latexmk
+*.synctex.gz
