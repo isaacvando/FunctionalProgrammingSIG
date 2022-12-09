@@ -1,5 +1,7 @@
 # Topic Ideas
-## Haskell Theory
+
+## Fall 22
+### Haskell
 - Types
 - Functions
 - Lists & list comprehensions
@@ -20,12 +22,23 @@
 - Functors
 - Applicative functors
 - Monoids
-- Monads
-
-## Examples
+- Monads 
 - JSON library from RWH
-- .cook parser once I actually write it
+- .cook parser
 
-## Problems
-- [Anagram](https://exercism.org/tracks/haskell/exercises/anagram) on Exercism
+## Spring 23
+### Haskell
+- Recursion schemes
+- More on monads
+- Real world examples
+- Testing
+- Property testing
+
+### Other Languages
+- Agda
+- Clojure
+- Dhall
+- Elm
+
+
 
