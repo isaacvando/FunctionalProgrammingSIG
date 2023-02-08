@@ -35,10 +35,9 @@
 - Property testing
 
 ### Other Languages
+- Unison
+- Elixir
 - Agda
 - Clojure
 - Dhall
 - Elm
-
-
-
