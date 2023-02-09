@@ -3,10 +3,15 @@
 
 ## Notes
 - Big idea
-- UCM basics
-  - exmaple: toSet, fromList
-- Namespaces
+  - example: toSet, fromList
+- Basic syntax
+  - terms
+  - types
+  - functions
+  - patterns
+  - where clause
 - Refactoring
 - No dependency conflicts
 - Durable storage
+- No builds
 - Collatz in Exercism (time permitting brackets)
